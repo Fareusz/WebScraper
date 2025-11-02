@@ -43,7 +43,7 @@ python -m venv .venv
 
 # or for bash/mac
 
-# source .venv/bin/activate
+source .venv/bin/activate
 
   
 
